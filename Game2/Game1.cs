@@ -46,7 +46,7 @@ namespace Game2
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
-            rectangleBlock = Content.Load<Texture2D>("squareNikita");
+            //rectangleBlock = Content.Load<Texture2D>("squareNikita");
             // rectangleBlock = new Texture2D(GraphicsDevice, 1, 1);
             // Microsoft.Xna.Framework.Color xnaColorBorder = new Microsoft.Xna.Framework.Color(128, 128, 128); // default color gray 
             // rectangleBlock.SetData(new[] { xnaColorBorder });
